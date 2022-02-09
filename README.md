@@ -19,8 +19,8 @@ You are required to model the price of houses with the available independent var
 
 ## The solution is divided into the following sections:
 
-Data understanding and exploration
-Data cleaning
-Data preparation
-Model building and evaluation
-Observation and inference
+* Data understanding and exploration
+* Data cleaning
+* Data preparation
+* Model building and evaluation
+* Observation and inference
